@@ -1,6 +1,6 @@
 export const config = {
   gemini: {
-    apiKey: process.env.GOOGLE_GEMINI_API_KEY || "AIzaSyBp0KU4R6VbpM66LhI_GwZpdC8FcM_fDUg",
+    apiKey: process.env.GOOGLE_GEMINI_API_KEY || "YOUR API KEY ",
   },
   app: {
     url: process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000",
