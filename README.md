@@ -130,23 +130,7 @@ clearcue-skincare/
    git push origin main
    \`\`\`
 
-2. **Deploy to Vercel**
-   - Visit [vercel.com](https://vercel.com)
-   - Import your GitHub repository
-   - Add environment variables in Vercel dashboard
-   - Deploy!
-
-3. **Set Environment Variables in Vercel**
-   - Go to your project settings
-   - Add `GOOGLE_GEMINI_API_KEY`
-   - Redeploy if necessary
-
-### Other Deployment Options
-
-- **Netlify**: Works with static export
-- **Railway**: Full-stack deployment
-- **DigitalOcean**: App Platform deployment
-
+2. 
 ## 🔒 Security & Privacy
 
 - **No Data Storage**: Images and analysis are not stored permanently
